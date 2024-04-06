@@ -1,0 +1,209 @@
+[
+    {
+        "category": "",
+        "games": [
+            {
+                "title": "",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "category": "bbs",
+        "games": [
+            {
+                "title": "Telnet BBS Guide",
+                "link": "https://www.telnetbbsguide.com/"
+            }
+        ]
+    },
+    {
+        "category": "tools",
+        "games": [
+            {
+                "title": "Gamepad Tester - Check Controllers and Joysticks Online",
+                "link": "https://hardwaretester.com/gamepad"
+            }
+        ]
+    },
+    {
+        "category": "dos",
+        "games": [
+            {
+                "title": "DOS_deck",
+                "link": "https://dosdeck.com"
+            },
+            {
+                "title": "DOS Zone | DOS games in browser",
+                "link": "https://dos.zone"
+            },
+            {
+                "title": "Software Library: MS-DOS Games : Internet Archive",
+                "link": "https://archive.org/details/softwarelibrary_msdos_games"
+            }
+        ]
+    },
+    {
+        "category": "local",
+        "games": [
+            {
+                "title": "games.retro",
+                "link": "https://games.retro/mcloud"
+            }
+        ]
+    },
+    {
+        "category": "card",
+        "games": [
+            {
+                "title": "Solitaire - Free and Online",
+                "link": "https://www.solitairebliss.com"
+            }
+        ]
+    },
+    {
+        "category": "rpg",
+        "games": [
+            {
+                "title": "Dungeon Crawl Stone Soup",
+                "link": "https://crawl.develz.org"
+            },
+            {
+                "title": "Candy Box",
+                "link": "https://candybox2.github.io/candybox/"
+            },
+            {
+                "title": "Candy Box 2",
+                "link": "https://candybox2.github.io/"
+            }
+        ]
+    },
+    {
+        "category": "lotgd",
+        "games": [
+            {
+                "title": "Legend of the Green Dragon (DEAD?)",
+                "link": "http://lotgd.net/"
+            },
+            {
+                "title": "Legend of the Green Dragon (dragoncat)",
+                "link": "https://logd.dragoncat.net/home.php"
+            },
+            {
+                "title": "Star Wars Online RPG",
+                "link": "https://deathstar.rpglink.in/home.php"
+            }
+        ]
+    },
+    {
+        "category": "platform",
+        "games": [
+            {
+                "title": "ascii world",
+                "link": "https://yeahpython.github.io/game/game.html"
+            }
+        ]
+    },
+    {
+        "category": "driving",
+        "games": [
+            {
+                "title": "s l o w  r o a d s",
+                "link": "https://slowroads.io"
+            }
+        ]
+    },
+    {
+        "category": "golf",
+        "games": [
+            {
+                "title": "VimGolf - real Vim ninjas count every keystroke!",
+                "link": "https://www.vimgolf.com"
+            },
+            {
+                "title": "Code Golf",
+                "link": "https://code.golf"
+            }
+        ]
+    },
+    {
+        "category": "trivia",
+        "games": [
+            {
+                "title": "Wheel of Names | Random name picker",
+                "link": "https://wheelofnames.com"
+            }
+        ]
+    },
+    {
+        "category": "archive.org",
+        "games": [
+            {
+                "title": "Software Library : Internet Archive",
+                "link": "https://archive.org/details/softwarelibrary"
+            }
+        ]
+    },
+    {
+        "category": "arcade",
+        "games": [
+            {
+                "title": "Internet Arcade : Internet Archive",
+                "link": "https://archive.org/details/internetarcade"
+            }
+        ]
+    },
+    {
+        "category": "appleii",
+        "games": [
+            {
+                "title": "Apple II Library: Compilation Disks (Games) : Internet Archive",
+                "link": "https://archive.org/details/apple_ii_library_compilations"
+            }
+        ]
+    },
+    {
+        "category": "streaming",
+        "games": [
+            {
+                "title": "Luna (Amazon)",
+                "link": "https://luna.amazon.com/"
+            },
+            {
+                "title": "xCloud",
+                "link": "https://www.xbox.com/"
+            },
+            {
+                "title": "GeForce Now",
+                "link": "https://play.geforcenow.com/"
+            }
+        ]
+    },
+    {
+        "category": "wargames",
+        "games": [
+            {
+                "title": "Over the wire",
+                "link": "https://overthewire.org/wargames/bandit/"
+            }
+        ]
+    },
+    {
+        "category": "html5",
+        "games": [
+            {
+                "title": "itch.io",
+                "link": "https://itch.io/games/html5"
+            }
+        ]
+    },
+    {
+        "category": "truple ayyy",
+        "games": [
+            {
+                "title": "Fortnite",
+                "link": "https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2"
+            }
+        ]
+    }
+]
