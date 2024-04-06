@@ -194,6 +194,19 @@
             {
                 "title": "itch.io",
                 "link": "https://itch.io/games/html5"
+            },
+            {
+                "title": "lexaloffle bbs",
+                "link": "https://www.lexaloffle.com/bbs/"
+            }
+        ]
+    },
+    {
+        "category": "interactive fiction",
+        "games": [
+            {
+                "title": "elsifplayer",
+                "link": "https://he4et.github.io/elseifplayer/"
             }
         ]
     },
