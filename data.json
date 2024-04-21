@@ -14,6 +14,10 @@
             {
                 "title": "Telnet BBS Guide",
                 "link": "https://www.telnetbbsguide.com/"
+            },
+            {
+                "title": "L.O.R.D",
+                "link": "https://playlord.org/"
             }
         ]
     },
@@ -216,15 +220,6 @@
             {
                 "title": "Fortnite",
                 "link": "https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2"
-            }
-        ]
-    },
-    {
-        "category": "bbs",
-        "games": [
-            {
-                "title": "L.O.R.D",
-                "link": "https://playlord.org/"
             }
         ]
     }
