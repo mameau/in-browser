@@ -118,6 +118,15 @@
         ]
     },
     {
+        "category": "fps",
+        "games": [
+            {
+                "title": "q1k3",
+                "link": "https://phoboslab.org/q1k3/"
+            }
+        ]
+    },
+    {
         "category": "golf",
         "games": [
             {
@@ -154,6 +163,10 @@
             {
                 "title": "Internet Arcade : Internet Archive",
                 "link": "https://archive.org/details/internetarcade"
+            },
+            {
+                "title": "wipEout Rewrite",
+                "link": "https://phoboslab.org/wipegame/"
             }
         ]
     },
