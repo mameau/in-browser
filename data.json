@@ -22,10 +22,19 @@
         ]
     },
     {
+        "category": "emulation",
+        "games": [
+            {
+                "title": "vAmigaWeb",
+                "link": "https://vamigaweb.github.io/"
+            }
+        ]
+    },
+    {
         "category": "tools",
         "games": [
             {
-                "title": "Gamepad Tester - Check Controllers and Joysticks Online",
+                "title": "Gamepad Tester",
                 "link": "https://hardwaretester.com/gamepad"
             }
         ]
