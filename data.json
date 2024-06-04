@@ -27,6 +27,18 @@
             {
                 "title": "vAmigaWeb",
                 "link": "https://vamigaweb.github.io/"
+            },
+            {
+                "title": "Scripted Amiga Emulator",
+                "link": "https://scriptedamigaemulator.net/"
+            },
+            {
+                "title": "DOS_deck",
+                "link": "https://dosdeck.com"
+            },
+            {
+                "title": "DOS Zone | DOS games in browser",
+                "link": "https://dos.zone"
             }
         ]
     },
@@ -36,23 +48,6 @@
             {
                 "title": "Gamepad Tester",
                 "link": "https://hardwaretester.com/gamepad"
-            }
-        ]
-    },
-    {
-        "category": "dos",
-        "games": [
-            {
-                "title": "DOS_deck",
-                "link": "https://dosdeck.com"
-            },
-            {
-                "title": "DOS Zone | DOS games in browser",
-                "link": "https://dos.zone"
-            },
-            {
-                "title": "Software Library: MS-DOS Games : Internet Archive",
-                "link": "https://archive.org/details/softwarelibrary_msdos_games"
             }
         ]
     },
@@ -163,28 +158,27 @@
             {
                 "title": "Software Library : Internet Archive",
                 "link": "https://archive.org/details/softwarelibrary"
-            }
-        ]
-    },
-    {
-        "category": "arcade",
-        "games": [
+            },
+            {
+                "title": "Software Library: MS-DOS Games : Internet Archive",
+                "link": "https://archive.org/details/softwarelibrary_msdos_games"
+            },
             {
                 "title": "Internet Arcade : Internet Archive",
                 "link": "https://archive.org/details/internetarcade"
             },
             {
-                "title": "wipEout Rewrite",
-                "link": "https://phoboslab.org/wipegame/"
+                "title": "Apple II Library: Compilation Disks (Games) : Internet Archive",
+                "link": "https://archive.org/details/apple_ii_library_compilations"
             }
         ]
     },
     {
-        "category": "appleii",
+        "category": "remake",
         "games": [
             {
-                "title": "Apple II Library: Compilation Disks (Games) : Internet Archive",
-                "link": "https://archive.org/details/apple_ii_library_compilations"
+                "title": "wipEout Rewrite",
+                "link": "https://phoboslab.org/wipegame/"
             }
         ]
     },
@@ -237,7 +231,7 @@
         ]
     },
     {
-        "category": "truple ayyy",
+        "category": "aaa",
         "games": [
             {
                 "title": "Fortnite",
