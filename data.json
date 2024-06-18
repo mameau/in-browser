@@ -61,11 +61,15 @@
         ]
     },
     {
-        "category": "card",
+        "category": "tabletop",
         "games": [
             {
                 "title": "Solitaire - Free and Online",
                 "link": "https://www.solitairebliss.com"
+            },
+            {
+                "title": "Chess",
+                "link": "https://chess.com"
             }
         ]
     },
