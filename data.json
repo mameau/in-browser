@@ -81,7 +81,7 @@
         "category": "tabletop",
         "games": [
             {
-                "title": "Solitaire - Free and Online",
+                "title": "Solitaire",
                 "link": "https://www.solitairebliss.com"
             },
             {
@@ -155,7 +155,7 @@
         "category": "golf",
         "games": [
             {
-                "title": "VimGolf - real Vim ninjas count every keystroke!",
+                "title": "VimGolf",
                 "link": "https://www.vimgolf.com"
             },
             {
@@ -177,19 +177,19 @@
         "category": "archive.org",
         "games": [
             {
-                "title": "Software Library : Internet Archive",
-                "link": "https://archive.org/details/softwarelibrary"
-            },
-            {
-                "title": "Software Library: MS-DOS Games : Internet Archive",
-                "link": "https://archive.org/details/softwarelibrary_msdos_games"
-            },
-            {
-                "title": "Internet Arcade : Internet Archive",
+                "title": "Internet Arcade",
                 "link": "https://archive.org/details/internetarcade"
             },
             {
-                "title": "Apple II Library: Compilation Disks (Games) : Internet Archive",
+                "title": "Internet Archive",
+                "link": "https://archive.org/details/softwarelibrary"
+            },
+            {
+                "title": "Software Library: MS-DOS Games",
+                "link": "https://archive.org/details/softwarelibrary_msdos_games"
+            },
+            {
+                "title": "Apple II Library: Compilation Disks (Games)",
                 "link": "https://archive.org/details/apple_ii_library_compilations"
             }
         ]
@@ -199,7 +199,19 @@
         "games": [
             {
                 "title": "wipEout Rewrite",
-                "link": "https://phoboslab.org/wipegame/"
+                "link": "https://phoboslab.org/wipegame"
+            },
+            {
+                "title": "Chocolate Keen",
+                "link": "https://www.jamesfmackenzie.com/chocolatekeen"
+            },
+            {
+                "title": "Chocolate DOOM",
+                "link": "https://silentspacemarine.com"
+            },
+            {
+                "title": "D3Wasm",
+                "link": "https://wasm.continuation-labs.com/d3demo/"
             }
         ]
     },
