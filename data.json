@@ -39,7 +39,7 @@
         ]
     },
     {
-        "category": "emulation",
+        "category": "retrocomputing",
         "games": [
             {
                 "title": "vAmigaWeb",
@@ -54,8 +54,12 @@
                 "link": "https://dosdeck.com"
             },
             {
-                "title": "DOS Zone | DOS games in browser",
+                "title": "DOS Zone",
                 "link": "https://dos.zone"
+            },
+            {
+                "title": "Owlet BBC Basic Editor",
+                "link": "https://bbcmic.ro/#"
             }
         ]
     },
@@ -143,7 +147,7 @@
         ]
     },
     {
-        "category": "fps",
+        "category": "demake",
         "games": [
             {
                 "title": "q1k3",
