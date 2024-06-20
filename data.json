@@ -9,6 +9,23 @@
         ]
     },
     {
+        "category": "learn",
+        "games": [
+            {
+                "title": "Learn Git Branching",
+                "link": "https://learngitbranching.js.org/"
+            },
+            {
+                "title": "Oh My Git!",
+                "link": "https://ohmygit.org/"
+            },
+            {
+                "title": "Shallenge",
+                "link": "https://shallenge.quirino.net/"
+            }
+        ]
+    },
+    {
         "category": "bbs",
         "games": [
             {
