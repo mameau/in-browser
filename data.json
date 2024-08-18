@@ -108,6 +108,10 @@
             {
                 "title": "Candy Box 2",
                 "link": "https://candybox2.github.io/"
+            },
+            {
+                "title": "Diablo",
+                "link": "https://d07riv.github.io/diabloweb/"
             }
         ]
     },
@@ -216,6 +220,14 @@
             {
                 "title": "D3Wasm",
                 "link": "https://wasm.continuation-labs.com/d3demo/"
+            },
+            {
+                "title": "Quake 1",
+                "link": "https://quake.m-h.org.uk/"
+            },
+            {
+                "title": "Quake 2",
+                "link": "https://quake2.m-h.org.uk/"
             }
         ]
     },
